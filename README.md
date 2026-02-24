@@ -1,2 +1,4 @@
 # Azure-AutoML-Diabetes-Prediction
 My first machine learning project using Azure AutoML to predict diabetes from medical data. Built a model to help healthcare providers identify at-risk patients earlier. It enables doctors to focus on critical cases faster, showing the real-world impact of machine learning in clinical support.
+This is the very first machine learning job I have ever completed. I used a tool called Microsoft Azure to look at a large set of medical information and teach a computer how to recognize the signs of diabetes on its own.
+This project solves a real world problem because doctors often have too many patients to check every single record by hand. By using this model, a hospital could automatically flag people who might be sick so they can get help much sooner. It shows how technology can be used to support medical professionals and improve how we take care of people.
